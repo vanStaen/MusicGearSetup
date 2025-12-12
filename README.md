@@ -19,7 +19,7 @@ USB driver for Motu Midi Express 128
 
 ### Minitaur
 Preset from the net
-Editor is too big, nbut can be found here:
+Editor is too big, but can be found here:
 https://www.moogmusic.com/downloads/?product=Minitaur&type=Editor
 
 ### Elektron
